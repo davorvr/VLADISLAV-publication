@@ -44,6 +44,15 @@ The materials in this repository correspond to the validation study of the VLADI
 
 Most of the documentation is within the code itself as comments. Comments in Arduino firmware were partly generated using an LLM. No code was LLM-generated.
 
+## See also:
+
+Our previous work, **M**ulticage **I**nfra**R**ed **O**pen-Source **L**ocomotor **A**ctivity e**V**aluator (MIROSLAV), where the networked architecture was initially developed:
+
+* Publication: https://doi.org/10.3758/s13428-025-02719-x (full text can be found [here](https://www.researchgate.net/publication/392687317_My_friend_MIROSLAV_A_hackable_open-source_hardware_and_software_platform_for_high-throughput_monitoring_of_rodent_activity_in_the_home_cage))
+* Repository: MIROSLAV-hardware https://github.com/davorvr/MIROSLAV-hardware
+* Repository: MIROSLAV-firmware https://github.com/davorvr/MIROSLAV-firmware
+* Repository: MIROSLAV-analysis https://github.com/davorvr/MIROSLAV-analysis
+
 ## Citation
 
 > TBD
